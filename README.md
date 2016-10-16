@@ -2,7 +2,7 @@
 
 The game can be instantiated with various strategies. 
 
-## Strategy 1: Beat Their Last Move##.
+## Strategy 1: Beat Their Last Move.
 
 Here you will play the move that beats their last move.
 
@@ -18,5 +18,3 @@ Something MAGIC!
 
 Luck is not as random as you think.
 Before that lottery ticket won the jackpot, someone had to buy it.
-
-Enjoy...
